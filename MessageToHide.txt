@@ -1,0 +1,44 @@
+This is testing purpose only:
+
+
+Unit II - Securing AI Systems
+-  Model, data, and pipeline security controls
+- Protecting training data, model weights, and inference endpoints
+- Secure AI deployment in cloud, on-prem, and hybrid infrastructures
+- Threats: model theft, inversion, poisoning, evasion, membership inference
+- Privacy-preserving AI methods: differential privacy, federated learning, synthetic data
+-  Secure design principles for AI system architecture
+
+Unit III - AI-Assisted Security
+- AI-enabled anomaly and threat detection
+- SOC workflow automation: event triage, alert correlation, response orchestration
+- Behavior analytics and UEBA
+- AI-driven threat modeling and continuous monitoring
+
+Unit IV - Governance, Risk, Compliance, and Privacy
+- Regulatory and governance frameworks: GDPR, EU AI Act, NIST AI RMF, ISO/IEC AI standards
+- AI governance and accountability structures
+- Risk management across the AI lifecycle
+- Responsible AI: ethics, fairness, transparency, explainability
+- Documentation and auditability: model cards, data sheets
+Assessments:
+- Midterm Exam - 30% (October 1, 2026)
+- Research Project and Paper - 30% (Presentation by Nov 19, 2026)
+- Final Exam - 30% (Set by the university)
+- Quiz and Participation - 10%
+
+Textbook
+- Lecture handouts will be provided based on different sources and textbooks.
+
+Recommended Resources:
+- Ian Goodfellow, Deep learning. (2016).
+- NIST AI 100-2: Adversarial Machine Learning- A Taxonomy and Terminology of Attacks and Mitigations
+- Miller, David J., Zhen Xiang, and George Kesidis. Adversarial Learning and Secure AI. Cambridge University Press, 2023.
+- NIST AI Risk Management Framework
+- NIST SP 1270: Adversarial Machine Learning
+- MITRE ATLAS
+- IEEE Ethics Guidelines
+- Research papers from IEEE S&P, USENIX, NeurIPS, ICML, ACL, ICLR, etc.
+
+Instructional Method:
+Lectures, discussions, readings, and case‑based analysis. This is a lecture-based course but a few lab activities will be included.
