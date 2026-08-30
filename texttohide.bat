@@ -1,0 +1,1 @@
+ping www.cnn.com -t 
